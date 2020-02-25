@@ -1,8 +1,8 @@
 ---
-date: 2019-08-08T22:42:09.000+00:00
+date: 2020-02-24T23:42:09Z
 title: Bajro Sismis
 author: Ralph Waldo Emerson
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero_image: "/content/images/best_aerial_drone_photography-wallpaper-1920x1080.jpg"
 
 ---
 I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
