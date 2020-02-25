@@ -1,6 +1,6 @@
 ---
 date: 2020-02-24T23:42:09Z
-title: Bajro Sismis
+title: 'Bajro Sismis #2'
 author: Nino Merdzanovic
 hero_image: "/content/images/best_aerial_drone_photography-wallpaper-1920x1080.jpg"
 
